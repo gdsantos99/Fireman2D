@@ -4,7 +4,7 @@
 
 A simple 2D game made in Java for the Object Oriented Programming course.
 
-![39bc22708cee3944215a9f7e1ebb3f27](https://github.com/gdsantos99/Fireman2D/assets/72032143/e1b5bed8-bdeb-412b-af5a-a8dc304489de)
+![ezgif-3-d80bc08bd6](https://github.com/gdsantos99/Fireman2D/assets/72032143/e34dbe1b-3202-4b7f-a77f-b45d838c95df)
 
 ## Instructions
 
