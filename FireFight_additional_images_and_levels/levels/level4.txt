@@ -1,0 +1,29 @@
+pppppppmmm
+ppppbppmmm
+ppppppppmm
+pppppppmmm
+pppppbmmmm
+pppppppmmm
+ppppppmmmm
+ppppppppmm
+ppppbppmmm
+pppppppmmm
+Fireman 9 5
+Fire 0 1
+Fire 1 2
+Fire 2 3
+Fire 3 4
+Fire 4 5
+Fire 0 9
+Fire 1 8
+Fire 7 9
+FiremanBot 9 0
+FiremanBot 9 2
+FiremanBot 9 4
+FiremanBot 9 6
+FiremanBot 9 8
+Player ll got 508 points
+Player jj got 169 points
+Player t got 42 points
+Player oo got 7 points
+Player ll got 5 points

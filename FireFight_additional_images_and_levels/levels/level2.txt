@@ -1,0 +1,22 @@
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eee___eeee
+eee___eeee
+eee___eeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+Fireman 3 3
+Fire 0 8
+Fire 8 0
+Fire 1 1
+Fire 9 9
+Bulldozer 3 4
+Bulldozer 4 3
+Player ll got 12 points
+Player g got 9 points
+Player e got 6 points
+Player kk got 6 points
+Player mm got 5 points

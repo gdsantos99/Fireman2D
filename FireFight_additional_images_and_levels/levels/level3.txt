@@ -1,0 +1,20 @@
+aaaaappppp
+abaapppbpp
+aaappppppp
+aaaa__pppp
+aaa____eee
+aa_______e
+eeee____ee
+eemmm____m
+eeeebem__m
+eeeeeeee__
+Fireman 4 4
+Fire 0 0
+Fire 9 0
+Fire 2 8
+Fire 0 9
+Player g got 162 points
+Player r got 125 points
+Player g got 111 points
+Player ll got 108 points
+Player jj got 104 points

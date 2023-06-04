@@ -1,0 +1,18 @@
+ppppp__ppp
+pppp____pp
+pep_____pp
+eee______p
+eeeee____p
+eeeeppmmpp
+eeeppmmmpp
+eeeemmmmmp
+eeeeemmmmp
+eeeeeepppp
+Fireman 7 1
+Fire 9 0
+Fire 0 9
+Player ll got 8 points
+Player kl got 8 points
+Player oo got 3 points
+Player oo got 3 points
+Player hh got 3 points

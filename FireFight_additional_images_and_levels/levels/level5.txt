@@ -1,0 +1,21 @@
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eee___eeee
+eee___eeee
+eee___eeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+Fireman 4 4
+Fire 1 1
+Fire 9 3
+Fire 8 8
+Fire 0 9
+FireTruck 4 5
+Player kk got 30 points
+Player rr got 29 points
+Player ee got 26 points
+Player kk got 21 points
+Player kk got 11 points
