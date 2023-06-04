@@ -1,13 +1,13 @@
-ppppp__ppp
-pppp____pp
-pep_____pp
-eee______p
-eeeee____p
-eeeeppmmpp
-eeeppmmmpp
-eeeemmmmmp
-eeeeemmmmp
-eeeeeepppp
+ppppp__pppe
+pppp____ppe
+pep_____ppe
+eee______pe
+eeeee____pe
+eeeeppmmppe
+eeeppmmmppe
+eeeemmmmmpe
+eeeeemmmmpe
+eeeeeeppppe
 Fireman 7 1
 Fire 9 0
 Fire 0 9
