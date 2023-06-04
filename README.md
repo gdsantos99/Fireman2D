@@ -29,7 +29,7 @@ These objects need coordinates.
 * FiremanBot -> ![firemanbot](https://github.com/gdsantos99/Fireman2D/assets/72032143/39509253-6bc0-47aa-9c8c-6c65c819b057)
 
 ## How It Works:
-* There can only be one fireman, but multiple fireman_bots;
+* There can only be one fireman, but several fireman_bots;
 * If a terrain burns points are lost;
 * If a fire is extinguished, points are awarded;
 * Bulldozers and firetrucks can be used;
